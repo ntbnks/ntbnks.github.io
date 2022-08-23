@@ -38437,7 +38437,7 @@ A.HR.prototype={
 H(a,b){var s,r=null,q=A.ah(b).R8.a6H(B.fx,B.fx,1.2)
 q=A.aob(r,new A.pN(A.TQ(r,r,r,r,r,r,new A.dP(new A.a0N(),t._s),r,r,r,r,r,r,r,r,r,r,r,r,r)),B.ck,B.Be,B.eI,B.MQ,q,B.No)
 s=A.aw(["MainPage",new A.a0O(),"AddAndEditPage",new A.a0P()],t.N,t.Ab)
-return new A.xn(new A.q8($.asx(),new A.a0Q(),r,t.RO),s,"Flutter Demo",q,!1,r)}}
+return new A.xn(new A.q8($.asx(),new A.a0Q(),r,t.RO),s,"DND Initiative",q,!1,r)}}
 A.a0N.prototype={
 $1(a){if(a.B(0,B.I))return B.eH
 return B.k},
