@@ -1,6 +1,6 @@
 {
-    "name": "dnd_initiative_v1_4",
-    "short_name": "dnd_initiative_v1_4",
+    "name": "DND Initiative",
+    "short_name": "DNDi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
