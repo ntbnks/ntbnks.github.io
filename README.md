@@ -4,6 +4,9 @@
 ## Version 1.6.2:
 - Refactored MobileAddAndEdit page.
 - Fixed length for initiative and passive values in [MobileAddAndEdit].
+- Added README to site's repository.
+- Added splash image.
+- Minor refactoring.
 
 ## Version 1.6.1:
 - Added [NotesTextField] into [FocusTraversalGroup] for desktop version.
