@@ -1,5 +1,11 @@
 # DND Initiative ntbnks.github.io
-### Current version: 1.6.2
+### Current version: 1.7
+
+## Version 1.7:
+ - You are now **unable to add multiple copies** of the same status. You'll be notified if you try.
+ - Redesigned [MobileAddAndEdit] page for optimzation purposes. Only one scroll allowed on this page.
+ - Templates for mobile now have their own page for optimzation purposes.
+ - There's now a check that looks at status duration and aheadOfTurn and **updates status** if any changes were made. 
 
 ## Version 1.6.2:
 - Refactored MobileAddAndEdit page.
