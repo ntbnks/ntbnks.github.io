@@ -40557,7 +40557,7 @@ H(a,b){var s=null,r=this.d,q=r?1:0.65
 r=r?B.cN:B.ed
 return A.aCF(new A.bi(B.b0,A.dr(s,A.b8(this.c,s,s,s,s,s,s),s,s,new A.dW(r,s,s,B.x0,B.Es,s,B.aY),s,s,B.Bu,1/0),s),q)}}
 A.MH.prototype={
-H(a,b){return B.O6}}
+H(a,b){return B.O5}}
 A.c8.prototype={
 gaB(a){return this.a.b},
 k(a,b){var s,r
@@ -74805,8 +74805,8 @@ B.BA=new A.qp(0,"noOpinion")
 B.BB=new A.qp(1,"enabled")
 B.h0=new A.qp(2,"disabled")
 B.cC=new A.xo(0,"tight")
-B.O5=new A.cG("\u0412\u0435\u0447\u043d\u043e\u0435",null,null,null,null,null,null,null,null)
-B.nb=new A.ln(1,B.cC,B.O5,null)
+B.O6=new A.cG("\u0412\u0435\u0447\u043d\u043e\u0435",null,null,null,null,null,null,null,null)
+B.nb=new A.ln(1,B.cC,B.O6,null)
 B.bu=new A.dh(null,null,null,null)
 B.c2=new A.ln(1,B.cC,B.bu,null)
 B.BC=new A.ln(1,B.cC,B.n1,null)
@@ -76635,7 +76635,7 @@ B.O2=new A.e6(B.L1,B.MI,B.MV,B.Nz,B.Mh,B.Lo,B.MP,B.Mk,B.Ms,B.Nh,B.Ly,B.NE,B.Mc,B
 B.w8=new A.Bd(1,"longestLine")
 B.lB=new A.cG("\u0412\u044b\u0439\u0442\u0438",null,null,null,null,null,null,null,null)
 B.NN=new A.t(!0,null,null,null,null,null,12,null,null,2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.O6=new A.cG("v1.6.2",null,B.NN,null,null,null,null,null,null)
+B.O5=new A.cG("v1.7",null,B.NN,null,null,null,null,null,null)
 B.w9=new A.cG("\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0438\u0433\u0440\u043e\u043a\u0430",null,null,null,null,null,null,null,null)
 B.O7=new A.cG("\u0413\u043e\u0442\u043e\u0432\u043e",null,null,null,null,null,null,null,null)
 B.lC=new A.cG("\u0418\u0433\u0440\u043e\u043a \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d!",null,null,null,null,null,null,null,null)
