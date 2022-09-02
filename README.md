@@ -1,5 +1,11 @@
 # DND Initiative ntbnks.github.io
-### Current version: 1.7
+### Current version: 1.7.1
+
+## Version 1.7.1:
+ - Fixed edit status on mobile not receiving any values from that status.
+ - Fixed broken selection for line to edit on mobile.
+ - Fixed adding statuses from templates page (statuses added before had different hashcode resulting in incorrect uniqueness check).
+ - Fixed beign unable to update status due to new check logic conflicting with updating mechanism.
 
 ## Version 1.7:
  - You are now **unable to add multiple copies** of the same status. You'll be notified if you try.
