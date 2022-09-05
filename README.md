@@ -1,5 +1,9 @@
 # DND Initiative ntbnks.github.io
-### Current version: 1.7.1
+### Current version: 1.7.2
+
+## Version 1.7.2:
+ - You can now **edit notes** in the main list on desktop.
+ - Fixed [EditStatusesView] status list not filling all available space.
 
 ## Version 1.7.1:
  - Fixed edit status on mobile not receiving any values from that status.
